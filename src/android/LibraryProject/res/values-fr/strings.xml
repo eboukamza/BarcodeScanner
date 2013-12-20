@@ -125,7 +125,7 @@
   <string name="result_email_address">Adresse email trouvée</string>
   <string name="result_geo">Coordonnées géographiques trouvées</string>
   <string name="result_isbn">Livre trouvé</string>
-  <string name="result_product">Produit trouvé</string>
+  <string name="result_product">Scan effectué</string>
   <string name="result_sms">Adresse SMS trouvée</string>
   <string name="result_tel">Numéro de téléphone trouvé</string>
   <string name="result_text">Texte trouvé</string>
